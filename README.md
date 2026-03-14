@@ -49,8 +49,8 @@ Energy: "∞"
 ---
 
 ## 🛰 **Cyber‑Links**
-- 🌐 Portfolio: [233777.xyz](233777.xyz)
-- 🧠 Blog: [blog.233777.xyz](blog.233777.xyz)
+- 🌐 Portfolio: [233777.xyz](https://233777.xyz)
+- 🧠 Blog: [blog.233777.xyz](https://233777.xyz/blog)
 - 💬 Discord: cloud0065
 - 🐦 X: @Helieox
 
@@ -69,11 +69,11 @@ Energy: "∞"
 ## ⚡ **Final Message**
 **“Signal’s clean, sky’s purple, and trouble’s brewing.”**
 
-<!-- ================= END ================= -->
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff00ff&center=true&vCenter=true&width=600&lines=SYSTEM+BREACH;NEON+PROTOCOL+ACTIVE;WELCOME+TO+THE+GRID" />
 </p>
 
+<!-- ================= END ================= -->
+
+---
