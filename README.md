@@ -50,7 +50,7 @@ Energy: "∞"
 
 ## 🛰 **Cyber‑Links**
 - 🌐 Portfolio: [233777.xyz](https://233777.xyz)
-- 🧠 Blog: [blog.233777.xyz](https://233777.xyz/blog)
+- 🧠 Blog: [233777.xyz/blog](https://233777.xyz/blog)
 - 💬 Discord: cloud0065
 - 🐦 X: @Helieox
 
