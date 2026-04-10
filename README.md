@@ -33,6 +33,7 @@ Energy: "∞"
 
 ---
 
+<!-- ================= END =================
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Reriang&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -40,6 +41,7 @@ Energy: "∞"
 </p>
 
 ---
+-->
 
 ## 🧩 **Activity Pulse**
 <p align="center">
